@@ -1,0 +1,2 @@
+psycopg2-binary==2.9.5
+csvfile==3.4.0
